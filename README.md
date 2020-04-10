@@ -2,7 +2,7 @@
  
 Ceci est un bot de gambling.
 
---- A LIRE ---
+1. --- A LIRE ---
 
 1) Lorsque vous lancez le programme verifiez bien que le bot se lance correctement. Si une page de dialogue apparait, le bot attendra que cette fenetre de dialogue se ferme.
 2) Appuyez sur 'a' pour lancer le bot après avoir entrer vos données, le bot se lancera 5 secondes après avoir appuyé sur 'a' donc prenez ce temps en compte.
@@ -41,7 +41,7 @@ Ceci est un bot de gambling.
 
 --- Informations ---
 
-"Entrez la mise voulue : " = Ce sera la mise de base que le bot entrera à chaque fois 
-"CT ou TERRO : " = Couleur sur laquelle vous voulez que le bot mise à chaques fois
+"Entrez la mise voulue : " = Ce sera la mise de base que le bot entrera à chaque fois. 
+"CT ou TERRO : " = Couleur sur laquelle vous voulez que le bot mise à chaques fois.
 "Nombre de lose de suite maximum : " = Nombre de perte de suite maximum où le bot s'arrêtera.
 "Entrez votre PIN : " = Votre PIN pour dévérouiller le compte et laisser le bot tout faire.
