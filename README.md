@@ -1,8 +1,8 @@
 # Bot-Gambling
  
-Ceci est un bot de gambling.
+Ceci est un bot de gambling. Si vous avez des questions, contactez moi sur discord : ibadus#0300
 
-1. --- A LIRE ---
+# --- A LIRE ---
 
 1) Lorsque vous lancez le programme verifiez bien que le bot se lance correctement. Si une page de dialogue apparait, le bot attendra que cette fenetre de dialogue se ferme.
 2) Appuyez sur 'a' pour lancer le bot après avoir entrer vos données, le bot se lancera 5 secondes après avoir appuyé sur 'a' donc prenez ce temps en compte.
@@ -12,7 +12,8 @@ Ceci est un bot de gambling.
 6) IL EST ABSOLUMENT NECESSAIRE d'être connecté avec son compte Steam sur CSGO-Empire lorsqu'on lance le bot.
 7) IL EST ABSOLUMENT NECESSAIRE d'avoir renseigné son adresse et toutes ses infos pour ne pas avoir la pop up avant de lancer le bot.
 8) IL EST ABSOLUMENT NECESSAIRE d'avoir installé les prérequis.
---- Prérequis ---
+
+# --- Prérequis ---
 
 1) Installer Python 3 sur son ordinateur :
 1.1) Aller sur https://www.python.org/downloads/ et telecharger la dernière version.
@@ -26,7 +27,7 @@ Ceci est un bot de gambling.
 4.3) Installer ChromeDriver sur https://chromedriver.chromium.org/downloads et télécharger la version correspondant à votre version de Google Chrome.
 4.4) Déplacez ChromeDriver.exe dans : "C:/Utilisateurs/VOTRE NOM D'UTILISATEUR/".
 
---- Utiliser le programme ---
+# --- Utiliser le programme ---
 
 1) Installer vous aurez à télécharger 'CSGO-Empire-Bot.py'.
 2) Déplacer 'CSGO-Empire-Bot.py' sur votre bureau.
@@ -39,7 +40,7 @@ Ceci est un bot de gambling.
 5.2) Ouvrez votre cmd et écrire "Python3 (ctrl+v)" (ctrl+v = le chemin du fichier ).
 5.3) Appuyez sur 'Entrée'.
 
---- Informations ---
+# --- Informations ---
 
 "Entrez la mise voulue : " = Ce sera la mise de base que le bot entrera à chaque fois. 
 "CT ou TERRO : " = Couleur sur laquelle vous voulez que le bot mise à chaques fois.
