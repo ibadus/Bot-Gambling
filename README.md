@@ -17,7 +17,7 @@ Ceci est un bot de gambling. Si vous avez des questions, contactez moi sur disco
 1) Installer Python 3 sur son ordinateur :
 1.1) Aller sur https://www.python.org/downloads/ et telecharger la dernière version.
 2) Installer 'pip' :
-2.1) Ouvrir l'invite de commande (CMD) et écrire "python get-pip.py".
+2.1) https://docs.python.org/3/installing/index.html
 3) Installer toutes les bibliothèques :
 3.1) Ecrire dans la CMD "pip3 install keyboard requests selenium datetime".
 4) Installer ChromeDriver :
