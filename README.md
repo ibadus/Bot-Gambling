@@ -46,3 +46,11 @@ Ceci est un bot de gambling. Si vous avez des questions, contactez moi sur disco
 "Entrez la mise voulue : " = Ce sera la mise de base que le bot entrera à chaque fois.
 "CT ou TERRO : " = Couleur sur laquelle vous voulez que le bot mise à chaques fois.
 "Nombre de lose de suite maximum : " = Nombre de perte de suite maximum où le bot s'arrêtera.
+
+# --- Guide ---
+
+Lancez le programme sur votre CMD. 
+Connectez vous avec votre compte steam si ce n'est pas déjà fait.
+Entrez votre PIN et confirmer.
+FERMER LE CHAT ET LES FENETRE DE DIALOGUES DE LA PAGE sinon le bot va crash.
+Ensuite cliquez sur 'esc' lorsque le timer pour bet est activé, faites le au minimum 5 secondes avant la fin du timer.
