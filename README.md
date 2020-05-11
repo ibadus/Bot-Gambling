@@ -1,3 +1,4 @@
+## Ce bot n'est plus mis à jour
 # Bot-Gambling
  
 Ceci est un bot de gambling. Si vous avez des questions, contactez moi sur discord : ibadus#0300
